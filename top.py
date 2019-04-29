@@ -1,4 +1,4 @@
-from alien_invasion import run_game
+from main import run_game
 import pygame
 
 win_file = "/Users/Ian/Desktop/won.png"
